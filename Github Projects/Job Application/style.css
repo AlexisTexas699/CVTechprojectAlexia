@@ -1,0 +1,195 @@
+fieldset{margin: 5% 20%;}
+div.a{padding-left: 8%; padding-right: 8%; padding-top: 3%;}
+div.b{padding-left: 8%; padding-right: 8%; padding-top: 3%;}
+div.c{padding-left: 8%; padding-right: 8%; padding-top: 3%;}
+/*candadian valley tech center */ 
+h1{color: rgb(93, 93, 93); font-style: normal; font-weight: bold; padding-top: 2%; padding-left: 3%; padding-right: 4%; text-align: right;}
+
+/*cvtech logo*/
+img.cvimg{padding-left: 2%; width: 15%;}
+
+/*Practice employment app*/
+h3{font-size: 20px;}
+
+/*applicant info*/
+h4{background-color: rgb(102, 102, 102); color: white; text-align: center;}
+
+/*Full name text box*/
+input.one{border-top: hidden; border-left:hidden; border-right: hidden;   width:40%;}
+label.labellast{font-style: italic; word-spacing: 185px; padding-left: 5%; padding-right: 15%; padding-top:4px; margin-top: auto;}
+label.labelfirst{font-style: italic; word-spacing: 185px;padding-right: 18%; padding-top:4px; margin-top: auto;}
+label.labelMI{font-style: italic; word-spacing: 185px;padding-right: 20%; padding-top:4px; margin-top: auto;}
+
+/*date text box*/
+input.two{border-top: hidden; border-left:hidden; border-right: hidden;   width:10%;}
+
+/*address text box*/
+input.three{border-top: hidden; border-left:hidden; border-right: hidden;   width:90%;}
+label.labelSA{font-style: italic; padding-left: 3%; padding-right: 20%; padding-top:4px; margin-top: auto;}
+label.Labelcity{font-style: italic; padding-left: 3%; padding-right: 20%; padding-top:4px; margin-top: auto;}
+label.labelState{font-style: italic; padding-left: 3%; padding-right: 20%; padding-top:4px; margin-top: auto;}
+label.labelZC{font-style: italic; padding-top:4px; margin-top: auto;}
+
+/*phone text box*/
+input.four{border-top: hidden; border-left:hidden; border-right: hidden; width: 45%;}
+
+/*email text box*/
+input.five{border-top: hidden; border-left:hidden; border-right: hidden; width: 35%;}
+label.labelE{padding-left: 5%;}
+
+/*Date avail text box*/
+input.six{border-top: hidden; border-left:hidden; border-right: hidden; width: 20%;}
+
+/*SSN text box*/
+input.seven{border-top: hidden; border-left:hidden; border-right: hidden; width: 20%;}
+label.labelSSN{padding-left: 3%; }
+
+/*desired sal text box*/
+input.eight{border-top: hidden; border-left:hidden; border-right: hidden; width: 12%;}
+label.labelDESSAL{padding-left: 3%;}
+
+/*Postion applying for? text box*/
+input.nine{border-top: hidden; border-left:hidden; border-right: hidden; width: 75%;}
+
+/*How learn position? text box*/
+input.ten{border-top: hidden; border-left:hidden; border-right: hidden; width: 75%;}
+
+/*First Yes No Check box*/
+label.labelyes1 { padding-left: 30.5%; font-weight: 500;}
+label.labelno1 {padding-left: 2%;}
+label.labelcitizen{padding-right: 1.5%; }
+
+/*second yes no check box*/
+label.labelauth{padding-left: 11.5%;}
+label.labelyes2 { padding-left: 45%; font-weight: 500;}
+label.labelno2 {padding-left: 2%;}
+
+/*third yes no check box*/
+label.labelyes3 { padding-left: 31%; font-weight: 500;}
+label.labelno3 {padding-left: 2%;}
+
+/*if yes when text box*/
+label.labelyeswhen{padding-left:11%;}
+input.inputyeswhen{border-top: hidden; border-left:hidden; border-right: hidden; width: 30%;}
+
+/*fourth yes no check box*/
+label.labelyes4 { padding-left: 31%; font-weight: 500;}
+label.labelno4 {padding-left: 2%;}
+
+/*if yes explain text box*/
+input.inputyesexplain{border-top: hidden; border-left:hidden; border-right: hidden; width: 50%;}
+
+/*Highschool text box*/
+input.inputHS{border-top: hidden; border-left:hidden; border-right: hidden; width: 40%;}
+
+/*Highschool Address text box*/
+label.labeladdressed{padding-left: 2%;}
+input.inputaddressed{border-top: hidden; border-left:hidden; border-right: hidden; width: 40%;}
+
+/*Education from and to 1*/
+label.labelto1{padding-left: 1%;}
+input.inputfrom1{border-top: hidden; border-left:hidden; border-right: hidden; width: 10%;}
+input.inputto1{border-top: hidden; border-left:hidden; border-right: hidden; width: 10%;}
+
+/*Did you graduate check box*/
+label.labelgrad1{padding-left: 2%;}
+label.labelgradyes1 { padding-left: 47%; font-weight: 500;}
+label.labelgradno1 {padding-left: 2%;}
+
+/*Diploma text box*/
+label.labeldiploma1{padding-left: 3%;}
+input.inputdiploma1{border-top: hidden; border-left:hidden; border-right: hidden; width: 33%;}
+
+/*College and address line*/
+input.inputcollege{border-top: hidden; border-left:hidden; border-right: hidden; width: 42%;}
+label.labeladdressed2{padding-left: 2%;}
+input.inputaddressed2{border-top: hidden; border-left:hidden; border-right: hidden; width: 40%;}
+
+/*Education from and to 2*/
+input.inputfrom2{border-top: hidden; border-left:hidden; border-right: hidden; width: 10%;}
+label.labelto2{padding-left: 1%;}
+input.inputto2{border-top: hidden; border-left:hidden; border-right: hidden; width: 10%;}
+
+/*Did you graduate check box*/
+label.labelgrad2{padding-left: 2%;}
+label.labelgradyes2 { padding-left: 47%; font-weight: 500;}
+label.labelgradno2 {padding-left: 2%;}
+
+/*Degree 1 text box*/
+label.labeldegree1{padding-left: 3%;}
+input.inputdegree1{border-top: hidden; border-left:hidden; border-right: hidden; width: 35%;}
+
+/*other and address text box*/
+input.inputothered{border-top: hidden; border-left:hidden; border-right: hidden; width: 43%;}
+label.labeladdressed3{padding-left: 2%;}
+input.inputaddressed3{border-top: hidden; border-left:hidden; border-right: hidden; width: 40%;}
+
+/*Education from and to 3*/
+input.inputfrom3{border-top: hidden; border-left:hidden; border-right: hidden; width: 10%;}
+label.labelto3{padding-left: 1%;}
+input.inputto3{border-top: hidden; border-left:hidden; border-right: hidden; width: 10%;}
+
+/*Degree 2 text box*/
+label.labeldegree2{padding-left: 3%;}
+input.inputdegree2{border-top: hidden; border-left:hidden; border-right: hidden; width: 35%;}
+
+/*Did you graduate check box*/
+label.labelgrad3{padding-left: 2%;}
+label.labelgradyes3 { padding-left: 47%; font-weight: 500;}
+label.labelgradno3 {padding-left: 2%;}
+
+/*page numbers*/
+p{text-align: center;}
+
+/*References section*/
+label.labellistref{font-style: initial;}
+input.inputreffname1{border-top: hidden; border-left:hidden; border-right: hidden; width: 50%;}
+label.labelrelation1{padding-left: 3%;}
+input.inputrelation1{border-top: hidden; border-left:hidden; border-right: hidden; width: 27%;}
+input.inputcomp1{border-top: hidden; border-left:hidden; border-right: hidden; width: 50%;}
+label.labelphone1{padding-left: 4%;}
+input.inputphone1{border-top: hidden; border-left:hidden; border-right: hidden; width: 27%;}
+input.inputemail1{border-left:hidden; border-right: hidden; border-top: hidden; border-bottom: hidden; width: 75%;}
+input.inputemail3{padding-left: 3%; border-top: hidden; border-left:hidden; border-right: hidden; width: 90%;}
+p.a{background-color: whitesmoke; color: whitesmoke; border-left: hidden; border-right: hidden; width: 100%; border-top-style: groove; border-bottom-style: groove;}
+
+/*previous Employment section*/
+input.inputcomp {
+    border-left:hidden; 
+    border-right: hidden; 
+    border-top: hidden; 
+    width: 50%;
+}
+
+label.labelphone{padding-left: 5%;}
+input.inputphone{border-left:hidden; border-right: hidden; border-top: hidden; width: 30%;}
+input.inputaddy{border-left:hidden; border-right: hidden; border-top: hidden; width: 50%;}
+label.labelsuper{padding-left: 3%;}
+input.inputsuper{border-left:hidden; border-right: hidden; border-top: hidden; width: 30%;}
+input.inputJT{border-left:hidden; border-right: hidden; border-top: hidden; width: 30%;}
+label.labelSS{padding-left: 3%;}
+input.inputSS{border-left:hidden; border-right: hidden; border-top: hidden; width: 15%;}
+label.labelES{padding-left: 3%;}
+input.inputES{border-left:hidden; border-right: hidden; border-top: hidden; width: 17%;}
+input.inputrespon{border-left:hidden; border-right: hidden; border-top: hidden; width: 87%;}
+input.inputfrm{border-left:hidden; border-right: hidden; border-top: hidden; width: 20%;}
+label.labelto{padding-left: 1%;}
+input.inputto{border-left:hidden; border-right: hidden; border-top: hidden; width: 20%;}
+label.labelrealeave{padding-left: 3%;}
+input.inputrealeave{border-left:hidden; border-right: hidden; border-top: hidden; width: 31%;}
+label.labelrefyes { padding-left: 41%; font-weight: 500;}
+label.labelrefno {padding-left: 2%;}
+p.a{background-color: whitesmoke; color: whitesmoke; border-left: hidden; border-right: hidden; width: 100%; border-top-style: groove; border-bottom-style: groove;}
+
+/*Skills and abilities*/
+input.inputwhtskab1{border-left:hidden; border-right: hidden; border-top: hidden; width: 62%;}
+input.inputwhtskab{border-left:hidden; border-right: hidden; border-top: hidden; width: 100%;}
+input.inputwhtskab{border-left:hidden; border-right: hidden; border-top: hidden; width: 100%;}
+input.inputwhyinter1{border-left:hidden; border-right: hidden; border-top: hidden; width: 62%;}
+input.inputwhyinter{border-left:hidden; border-right: hidden; border-top: hidden; width: 100%;}
+
+/*Disclaimer and Signature*/
+input.inputlastsig{border-left:hidden; border-right: hidden; border-top: hidden; width: 58%;}
+label.labellastdate{padding-left: 2%;}
+input.inputlastdate{border-left:hidden; border-right: hidden; border-top: hidden; width: 25%;}
+

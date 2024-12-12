@@ -1,0 +1,15 @@
+td, th {
+    border: 1px solid black;
+    border: collapse;
+    padding: 30px;
+}
+tr:nth-child(odd) {background-color: red;}
+img {
+    float: left;
+    position: fixed;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+}
+
