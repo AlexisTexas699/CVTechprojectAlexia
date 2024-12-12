@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8" />
+    <title>Contact</title>
+<style>
+body{
+margin:0;
+ background-color: antiquewhite;
+ }
+.first-ul{
+list-style: none;
+margin: 0;
+padding: 0;
+overflow: hidden; 
+background-color: burlywood;
+position: fixed;
+top: 0;
+width: 100%;
+ }
+li{
+float: left;
+}
+li a{
+ display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+li a:hover:not(.active){
+background-color: #d5957c;
+}
+.active{
+background-color: #d5957c;
+}
+input[type=text], select, textarea {
+  width: 20%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: burlywood;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #d5957c;
+}
+input[type=Reset] {
+  background-color: burlywood;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=Reset]:hover {
+  background-color: #d5957c;
+}
+    </style>
+</head>
+<body>
+    <h6 id="Top"></h6>
+    <ul class="first-ul"
+    class="first-li">
+     <li><a href="index.html">Home</a></li>
+     <li><a href="music.html">Music</a> </li> 
+     <li> <a href="games.html">Games</a></li>  
+     <li><a class= "active"    
+        href="Contact.html">Contact</a> </li>
+    </ul>
+    <div style="padding:20px;margin-top:30px;background-color:antiquewhite;
+    height: 600px ;">
+    <h2>
+    Contact Us
+    </h2>
+    <br>
+    <div>
+        <form action="Submitted.html">
+            <label for="fname">First Name</label>
+            <br>
+            <input type="text" id="fname" name="firstname" placeholder="Ex: Jake">
+        <br>
+      <br>
+            <label for="lname">Last Name</label>
+            <br>
+            <input type="text" id="lname" name="lastname" placeholder="Ex: Smith">
+        <br>
+        <br>
+            <label for="Description">Description</label>
+            <br> 
+            <textarea id="Description" name="Description" placeholder="Why do you want to contact us?" style="height:100px"></textarea>
+        <br>
+        <br>
+            <input type="submit" value="Submit">
+            <input type="reset" value="Clear">
+          </form>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <a href="#top">back to the Top</a>
+</div>
+</body>
+</html>
